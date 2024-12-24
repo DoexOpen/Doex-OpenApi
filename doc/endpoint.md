@@ -1,4 +1,4 @@
-# Api Endpoints for HBTC Broker
+# Api Endpoints for DOEX Broker
 
 Name | base endpoint
 ------------ | ------------
